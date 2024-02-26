@@ -1,0 +1,20 @@
+#btn{
+    height: 50px;
+    text-align: center;
+    font-size: 1.2rem;
+    background-color: red;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 12px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.container{
+    background-color: antiquewhite;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 100px;
+}
